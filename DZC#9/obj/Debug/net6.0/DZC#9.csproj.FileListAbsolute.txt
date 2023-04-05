@@ -1,0 +1,15 @@
+C:\Users\Acer-1\Desktop\DZC#9\bin\Debug\net6.0\DZC#9.exe
+C:\Users\Acer-1\Desktop\DZC#9\bin\Debug\net6.0\DZC#9.deps.json
+C:\Users\Acer-1\Desktop\DZC#9\bin\Debug\net6.0\DZC#9.runtimeconfig.json
+C:\Users\Acer-1\Desktop\DZC#9\bin\Debug\net6.0\DZC#9.dll
+C:\Users\Acer-1\Desktop\DZC#9\bin\Debug\net6.0\DZC#9.pdb
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.csproj.AssemblyReference.cache
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.AssemblyInfoInputs.cache
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.AssemblyInfo.cs
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.csproj.CoreCompileInputs.cache
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.dll
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\refint\DZC#9.dll
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.pdb
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\DZC#9.genruntimeconfig.cache
+C:\Users\Acer-1\Desktop\DZC#9\obj\Debug\net6.0\ref\DZC#9.dll
